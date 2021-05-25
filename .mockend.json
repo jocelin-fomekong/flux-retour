@@ -1,0 +1,15 @@
+{
+  "TalirisPayRespProm": {
+    "id": "number",
+    "employeeErpId": "string",
+    "promotion": "string",
+    "value": "string",
+    "exportToExcel": "boolean",
+    "effectiveDate": "date",
+    "incomingDate": "date",
+  },
+  "TalirisPayRespRubric": {
+    "body": "string",
+    "post": "Post"
+  }
+}
